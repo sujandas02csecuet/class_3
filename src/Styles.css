@@ -1,0 +1,110 @@
+header{
+
+    width: 980px;
+    height: 45px;
+    background-color: gray;
+
+    padding: 20px;
+    margin: 5px;
+     
+}
+.slider{
+
+    width: 980px;
+    height: 250px;
+    background-color: orange;
+    padding: 20px;
+    margin: 5px;
+
+}
+.paraOne{
+    width: 490px;
+    height: 200px;
+    /* background-color: gray; */
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
+
+}
+.paraTwo
+{
+
+    width: 490px;
+    height: 200px;
+    /* background-color: darkcyan; */
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
+
+}
+
+
+.paraLeft
+{
+
+    width: 310px;
+    height: 150px;
+    background-color: darkcyan;
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
+    
+
+}
+
+.paraMiddle
+{
+
+    width: 310px;
+    height: 150px;
+    background-color: green;
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
+    
+
+}
+
+.paraRight
+{
+
+    width: 320px;
+    height: 150px;
+    background-color: gold;
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
+    
+
+}
+.mainFooter{
+
+    width: 980px;
+    height: 100px;
+  
+    padding: 20px;
+    margin-top: 450px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    background-color: green;
+}
+
+.footerButton
+{
+    width: 200px;
+    height: 20px;
+   margin-top: 50px;
+   margin-left: 380px;
+    
+    background-color: darkgray;
+}
+
+
+
+
+
