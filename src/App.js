@@ -7,6 +7,14 @@ function App() {
   var [fNumber, sNumber] = useState(0);
   useEffect(() => {
     document.title = `${fNumber}`;
+
+
+
+
+
+
+    
+  
   });
 
   return (
